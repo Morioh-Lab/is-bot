@@ -1,0 +1,25 @@
+{
+  "name": "@morioh/is-bot",
+  "version": "1.0.1",
+  "description": "Detect user-agent is a bot/spider/crawler",
+  "main": "index.js",
+  "scripts": {
+    "pub": "npm publish --access public",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morioh-Lab/is-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "crawler",
+    "spider"
+  ],
+  "author": "Morioh Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Morioh-Lab/is-bot/issues"
+  },
+  "homepage": "https://github.com/Morioh-Lab/is-bot#readme"
+}
